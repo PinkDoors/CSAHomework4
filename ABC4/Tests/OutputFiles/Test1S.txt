@@ -1,0 +1,17 @@
+Sorted container:
+Container contains 3  elements.
+----------------------------------------------------
+0: Input string = ABABAC.
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 65.666667.
+
+Result of the encryption: 353530.
+----------------------------------------------------
+1: Input string = ABABAC.
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 65.666667.
+
+Result of the encryption: qrqrqs.
+----------------------------------------------------
+2: Input string = ABABAC.
+The quotient of dividing the sum of the codes of an unencrypted string by the number of characters in this string = 65.666667.
+
+Result of the encryption: ststsC.
